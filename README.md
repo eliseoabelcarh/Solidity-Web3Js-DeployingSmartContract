@@ -6,5 +6,5 @@
 
 ```
 
-# Sign simple transaction
+# Sign simple transaction from Ethereum wallet
 
